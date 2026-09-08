@@ -19,7 +19,7 @@ const CONFIG = {
 
   // ---- Dados do vendedor (aparecem no cabeçalho e no link do WhatsApp) ----
   vendedor: {
-    nome: "Wesley3",
+    nome: "Wesley",
     slogan: "O seu Vendedor!",
     foto: "assets/vendedor-foto.jpg",
     // Número de WhatsApp no formato internacional, só números (DDI 55 + DDD + número)
